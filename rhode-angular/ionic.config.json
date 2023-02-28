@@ -1,0 +1,7 @@
+{
+  "name": "rhode-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
